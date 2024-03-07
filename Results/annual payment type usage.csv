@@ -1,0 +1,4 @@
+"year","boleto","boleto_values","boleto_per_transaction","debit_card","debit_card_values","debit_card_per_transaction","voucher","voucher_values","voucher_per_transaction","credit_card","credit_card_values","credit_card_per_transaction","total_payment_values"
+"2016","61","11880.42","194.76","2","241.73","120.87","20","718.53","35.93","248","48925.88","197.28","61766.56"
+"2017","10625","1846632.43","173.80","452","50124.28","110.89","3189","189980.36","59.57","37882","6786494.89","179.15","8873231.96"
+"2018","11676","2084567.93","178.53","1200","196361.50","163.63","2914","205411.53","70.49","46766","8354820.96","178.65","10841161.92"
