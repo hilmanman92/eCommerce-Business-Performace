@@ -25,6 +25,16 @@ Dalam suatu perusahaan mengukur performa bisnis sangatlah penting untuk melacak,
 
 ## Annual Customer Activity Growth Analysis
 
+*-- on progress --*
+
 ## Annual Product Category Analysis
 
+*-- on progress --*
+
 ## Annual Payment Type Usage Analysis
+
+*-- on progress --*
+
+## Summary
+
+*-- on progress --*
